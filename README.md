@@ -16,7 +16,7 @@ Main features from tech perspective:
 
 3. Scripts are mainly written in Python. Particularly, pandas , a python Data Analysis library is heavily used. 
 
-Extra finding notes:
+Extra notes:
 
 (Many thanks to Michael, I have learned a lot from the project. )
 
