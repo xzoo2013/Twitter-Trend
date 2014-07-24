@@ -9,8 +9,11 @@ Many researches have been built up by analysing the textual contents in tweets. 
 trends and spam tweet detection and representative tweet identification. In the end, these algorithms are applied on the real tweet data downloaded from Twitter API and a result evaluation will be provided. 
 
 Main features from tech perspective:
-1. Handling several millions of tweets, MongoDB supported
+
+1. Handling several millions of tweets, MongoDB supported 
+
 2. Redis is used to support the intermediate calculation due to its powerful data structure supporting. 
+
 3. Scripts are mainly written in Python. Particularly, pandas , a python Data Analysis library is heavily used. 
 
 Extra finding notes:
